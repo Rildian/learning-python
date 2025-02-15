@@ -23,3 +23,7 @@ print(s5)
 s6 = '\u2764' # a example of unicode
 print(s6)
 print('\U0001F600') # unicode
+lista_hipotetica = []
+for i in 'banana':
+    lista_hipotetica.append(i)
+print(lista_hipotetica)
