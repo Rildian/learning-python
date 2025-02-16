@@ -3,7 +3,7 @@ import math
 soma = lambda x: x + 10 # a lambda function
 # you use a certain amount of arguments and then you call everyone 
 
-print(soma(2))
+print(soma(2)) # need to pass this argument
 
 soma2 = lambda x,y: x + y + 10
 
