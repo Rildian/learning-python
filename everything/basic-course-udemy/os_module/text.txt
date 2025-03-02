@@ -1,0 +1,5 @@
+Nota da discplina Computação Gráfica foi: 7.0
+Nota da discplina Desenvolvimento Web foi: 3.0
+Nota da discplina Inteligência Artificial foi: 2.3
+Nota da discplina Análise de Dados foi: 9.0
+Nota da discplina Algoritmos e Estruturas de Dados foi: 10.0
