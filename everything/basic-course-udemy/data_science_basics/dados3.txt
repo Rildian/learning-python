@@ -1,0 +1,6 @@
+,Name,Total
+0,L. Messi,85.0
+1,Cristiano Ronaldo,92.25
+2,Neymar Jr,85.25
+3,De Gea,68.75
+4,K. De Bruyne,77.25
